@@ -1,0 +1,420 @@
+<CAEXFile SchemaVersion="3.0" FileName="opas_dcn_IO.aml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.dke.de/CAEX" xsi:schemaLocation="http://www.dke.de/CAEX CAEX_ClassModel_V.3.0.xsd">
+    <SuperiorStandardVersion>AutomationML 2.10</SuperiorStandardVersion>
+    <SourceDocumentInformation OriginName="AutomationML Editor" OriginID="916578CA-FE0D-474E-A4FC-9E1719892369" OriginVersion="5.1.2.0" LastWritingDateTime="2021-02-19T13:53:06.5082718-06:00" OriginProjectID="unspecified" OriginProjectTitle="unspecified" OriginRelease="5.1.2.0" OriginVendor="AutomationML e.V." OriginVendorURL="www.AutomationML.org" />
+    <ExternalReference Path="UNECE.aml" Alias="UNECE" />
+    <InstanceHierarchy Name="InstanceHierarchy">
+        <Version>0</Version>
+        <InternalElement Name="Project" ID="Project">
+            <Attribute Name="ProjectState" AttributeDataType="xs:string" Value="InDesign" />
+            <Attribute Name="LastChangeDate" AttributeDataType="xs:dateTime" Value="2025-05-01T10:30:00Z" />
+            <Attribute Name="LastChangeAuthor" AttributeDataType="xs:string" Value="CI@abc.com" />
+            <Attribute Name="VersionNumber" AttributeDataType="xs:string" Value="1.0.1" />
+            <Attribute Name="Company" AttributeDataType="xs:string" Value="abc" />
+            <InternalElement Name="TagList">
+                <InternalElement Name="PV" ID="AI33020028" RefBaseRoleClassPath="Basic-Project/Basic-TagList/Basic-Signal">
+                    <ExternalInterface Name="SignalInterface" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                        <Attribute Name="Direction" AttributeDataType="xs:string" Value="InOut"/>
+                    </ExternalInterface>
+                </InternalElement>
+                <InternalElement Name="Loop current(Analog input)" ID="AI33020007" RefBaseRoleClassPath="Basic-Project/Basic-TagList/Basic-Signal">
+                    <ExternalInterface Name="SignalInterface" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                        <Attribute Name="Direction" AttributeDataType="xs:string" Value="InOut"/>
+                    </ExternalInterface>
+                </InternalElement>
+                <InternalElement Name="Loop current(Analog input)" ID="AI33020001" RefBaseRoleClassPath="Basic-Project/Basic-TagList/Basic-Signal">
+                    <ExternalInterface Name="SignalInterface" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                        <Attribute Name="Direction" AttributeDataType="xs:string" Value="InOut"/>
+                    </ExternalInterface>
+                </InternalElement>
+            </InternalElement>
+            <InternalElement Name="DCNI/O" RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-DCN">
+                <Attribute Name="VendorNameplate" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-VendorNameplate" >
+                    <Attribute Name="serialNumber" AttributeDataType="xs:string" Value="SN-20240501-001">
+                        <Description>Unique production number from the Manufacturer. This is often stamped on the outside of a physical component and may be used for traceability and warranty purposes</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="manufacturer" AttributeDataType="xs:string" Value="Siemens AG">
+                        <Description>Name of the company that manuafactured the component</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="manufacturerUri" AttributeDataType="xs:anyURI" Value="https://www.siemens.com">
+                        <Description>ManufacturerUri provides a unique identifier for the manufacturer</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="model" AttributeDataType="xs:string" Value="S7-1500 CPU 1511-1 PN">
+                        <Description>product designation under which the device is marketed</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="softwareRevision" AttributeDataType="xs:string" Value="V2.9.1" >
+                        <Description>The version or revision level of the software component, the software/firmware of a hardware component, or the software/firmware of the Device</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="hardwareRevision" AttributeDataType="xs:string" Value="HW3.2">
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="productCode" AttributeDataType="xs:string" Value="6ES7511-1AK02-0AB0">
+                        <Description>Unique combination of numbers and letters used to identify the product. It may be the order information displayed on type shields or in ERP systems</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="revisionCounter" AttributeDataType="xs:int" Value="1">
+                        <Description>RevisionCounter is an incremental counter indicating the number of times the configuration data has been modified. An example would be a temperature sensor where the change of the unit would increment the RevisionCounter but a change of the measurement value would not affect the RevisionCounter.</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="productInstanceUri" AttributeDataType="xs:anyURI" Value="urn:siemens:device:S7-1500:SN-20240501-001">
+                        <Description>Globally unique resource identifier of the manufacturer of the component</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                </Attribute>
+                <Attribute Name="TagNameplate" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-TagNameplate" Value="TagName" >
+                    <Attribute Name="serialNumber" AttributeDataType="xs:string" Value="SN-20240501-001">
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="assetID" AttributeDataType="" Value="P100-FC001.AI1">
+                        <Description>AssetId is a user writable alphanumeric character sequence uniquely identifying a component. The ID is provided by the integrator or user of the device. It contains typically an identifier in a branch, use case or user specific naming scheme. This could be for example a reference to an electric scheme.  IRDI Mapping 0112/2///61987#ABA038 - identification code of device</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA " />
+                    </Attribute>
+                    <Attribute Name="ComponentName" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/LocalizedAttribute" Value="DCN I/O">
+                        <Description>ComponentName is a user writable name provided by the integrator or user of the component.</Description>
+                    </Attribute>
+                </Attribute>
+                <InternalElement Name="Basic-BaseEngine" RefBaseClassPath="">
+                    <InternalElement Name="Basic-FBExecutionEngine" RefBaseClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-DCN/Basic-BaseEngine" />
+                    <InternalElement Name="Basic-IOServiceEngine" RefBaseClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-DCN/Basic-BaseEngine">
+                        <InternalElement Name="Basic-SignalService">
+                            <InternalElement Name="IN_FB" RefBaseSystemUnitPath="O-PAS-FBClassLib/OCFB_INClass"/>
+                            <InternalElement Name="OUT_FB" RefBaseSystemUnitPath="O-PAS-FBClassLib/OCFB_OUTClass">
+                                <ExternalInterface Name="UAObjectTypeLinkInterface" ID="f2463348-36de-4a20-a4db-df8a11e33256">
+                                    <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId" Value="rID1">
+                                        <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file.</Description>
+                                        <RefSemantic CorrespondingAttributePath="SUC Attribute - This attribtue is configured for the SystemUnitClass and not individual instances. It must not be changed on individual instances." />
+                                    </Attribute>
+                                    <Attribute Name="NodeId" AttributeDataType="xs:string" RefAttributeType="O-PAS-UA-NodeAttributeTypeLib/UA-NodeIdType">
+                                        <Attribute Name="NamespaceURI" AttributeDataType="xs:anyURI" Value="opengroup.org/opas/6.2">
+                                            <Description>Namespace qualifier for the NodeId.</Description>
+                                            <RefSemantic CorrespondingAttributePath="OPC UA Optional. If omitted, the Local Server URI (namespace index 1) is assumed. " />
+                                        </Attribute>
+                                        <Attribute Name="NumericNodeId" AttributeDataType="xs:int" Value="2">
+                                            <Description>An integer NodeId</Description>
+                                            <RefSemantic CorrespondingAttributePath="OPC UA Only 1 of the 4 NodeId types" />
+                                        </Attribute>
+                                    </Attribute>
+                                </ExternalInterface>
+                                <ExternalInterface Name="Signal1" ID="AI33020028" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                                    <Attribute Name="Direction" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                                        <DefaultValue>InOut</DefaultValue>
+                                        <Constraint Name="AllowedValues">
+                                            <NominalScaledType>
+                                                <RequiredValue>In</RequiredValue>
+                                                <RequiredValue>Out</RequiredValue>
+                                                <RequiredValue>InOut</RequiredValue>
+                                            </NominalScaledType>
+                                        </Constraint>
+                                    </Attribute>
+                                    <Attribute Name="PV" RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication/Basic-FunctionBlockApplication/Basic-FunctionBlock/Basic-Signal" Value="20">
+                                        <Attribute Name="paramId" AttributeDataType="xs:int" Value="111" />
+                                        <Attribute Name="RURange" AttributeDataType="xs:string" Value="[0, 100]" />
+                                        <Attribute Name="EngineeringUnits" AttributeDataType="xs:string" Value="db" />
+                                    </Attribute>
+                                </ExternalInterface>
+                                <ExternalInterface Name="Signal2" ID="AI33020007" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                                    <Attribute Name="Direction" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                                        <DefaultValue>InOut</DefaultValue>
+                                        <Constraint Name="AllowedValues">
+                                            <NominalScaledType>
+                                                <RequiredValue>In</RequiredValue>
+                                                <RequiredValue>Out</RequiredValue>
+                                                <RequiredValue>InOut</RequiredValue>
+                                            </NominalScaledType>
+                                        </Constraint>
+                                    </Attribute>
+                                    <Attribute Name="Loop current(Analog input)" RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication/Basic-FunctionBlockApplication/Basic-FunctionBlock/Basic-Signal" Value="20">
+                                        <Attribute Name="paramId" AttributeDataType="xs:int" Value="555" />
+                                        <Attribute Name="RURange" AttributeDataType="xs:string" Value="[0, 100]" />
+                                        <Attribute Name="EngineeringUnits" AttributeDataType="xs:string" Value="dB" />
+                                    </Attribute>
+                                </ExternalInterface>
+                                <ExternalInterface Name="Signal3" ID="AI33020001" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                                    <Attribute Name="Direction" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                                        <DefaultValue>InOut</DefaultValue>
+                                        <Constraint Name="AllowedValues">
+                                            <NominalScaledType>
+                                                <RequiredValue>In</RequiredValue>
+                                                <RequiredValue>Out</RequiredValue>
+                                                <RequiredValue>InOut</RequiredValue>
+                                            </NominalScaledType>
+                                        </Constraint>
+                                    </Attribute>
+                                    <Attribute Name="Loop current(Analog input)" RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication/Basic-FunctionBlockApplication/Basic-FunctionBlock/Basic-Signal" Value="20">
+                                        <Attribute Name="paramId" AttributeDataType="xs:int" Value="555" />
+                                        <Attribute Name="RURange" AttributeDataType="xs:string" Value="[0, 100]" />
+                                        <Attribute Name="EngineeringUnits" AttributeDataType="xs:string" Value="dB" />
+                                    </Attribute>
+                                </ExternalInterface>
+                            </InternalElement>
+                        </InternalElement>
+                    </InternalElement>
+                </InternalElement>
+            </InternalElement>
+        </InternalElement>
+    </InstanceHierarchy>
+    <InterfaceClassLib Name="O-PAS-Basic-InterfaceTypeLib" ID="cd0bea4c-8fdd-4f8d-96ec-119ae189bd6d">
+        <Version>0</Version>
+        <InterfaceClass Name="Basic-SignalInterface" ID="2c9b7728-ce27-42e1-b13c-137275c24985" RefBaseClassPath="O-PAS-UA-NodeInterfaceClassLib/UA-NodeConnection/UA-VariableConnection">
+            <Description>Defines a link from a function block to a signal.</Description>
+            <Attribute Name="" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                <DefaultValue>InOut</DefaultValue>
+                <Constraint Name="AllowedValues">
+                    <NominalScaledType>
+                        <RequiredValue>In</RequiredValue>
+                        <RequiredValue>Out</RequiredValue>
+                        <RequiredValue>InOut</RequiredValue>
+                    </NominalScaledType>
+                </Constraint>
+            </Attribute>
+            <InterfaceClass Name="Basic-TriggerInterface" ID="5701365e-2f70-45f6-bd1b-d052e06271c2" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                <Description>Defines a trigger link between function blocks, input to output(s). </Description>
+            </InterfaceClass>
+        </InterfaceClass>
+    </InterfaceClassLib>
+    <RoleClassLib Name="O-PAS-Basic-RoleClassLib" ID="3ba23c58-fc9f-4b13-a834-5a3089053c56">
+        <Version>0</Version>
+        <RoleClass Name="Basic-Project" ID="ac1f296f-aedf-4c27-aa80-d7e5e9b38411">
+            <Attribute Name="ProjectState" AttributeDataType="xs:string">
+                <Description>The project status values are derived from ISA/IEC TR62443-2-3. Acceptable values are "InDesign", "InReview", "Approved", "Released", "Installed", "InPlaceTest", "Operational", "Unknown"</Description>
+                <DefaultValue>InDesign</DefaultValue>
+            </Attribute>
+            <Attribute Name="LastChangeDate" AttributeDataType="xs:dateTime" />
+            <Attribute Name="LastChangeAuthor" AttributeDataType="xs:string" />
+            <Attribute Name="VersionNumber" AttributeDataType="xs:string" />
+            <Attribute Name="Company" AttributeDataType="xs:string" />
+            <RoleClass Name="Basic-TagList" RefBaseClassPath="">
+                <Description>Contains Tags used in a Project</Description>
+                <RoleClass Name="Basic-Signal" ID="d16e354f-9f88-47b6-8d8b-f365389667e0" RefBaseClassPath="O-PAS-UA-RoleClassLib/UA-Tag/UA-TagVariable">
+                    <ExternalInterface Name="SignalInterface" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                        <Attribute Name="Direction">
+                            <DefaultValue>InOut</DefaultValue>
+                        </Attribute>
+                        <Constraint Name="AllowedValues">
+                            <NominalScaledType>
+                                <RequiredValue>In</RequiredValue>
+                                <RequiredValue>Out</RequiredValue>
+                                <RequiredValue>InOut</RequiredValue>
+                            </NominalScaledType>
+                        </Constraint>
+                    </ExternalInterface>
+                </RoleClass>
+            </RoleClass>
+            <RoleClass Name="Basic-DCN">
+                <Attribute Name="VendorNameplate" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-VendorNameplate">
+                    <Description>This Attribtue can store the Vendor Nameplate Infromation of the OPC UA Interface IVendorNameplateType defined in OPC 10000-100</Description>
+                    <Attribute Name="serialNumber" AttributeDataType="xs:string">
+                        <Description>Unique production number from the Manufacturer. This is often stamped on the outside of a physical component and may be used for traceability and warranty purposes</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="manufacturer" AttributeDataType="xs:string">
+                        <Description>Name of the company that manuafactured the component</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="manufacturerUri" AttributeDataType="xs:anyURI">
+                        <Description>ManufacturerUri provides a unique identifier for the manufacturer</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="model" AttributeDataType="xs:string">
+                        <Description>product designation under which the device is marketed</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="softwareRevision" AttributeDataType="xs:string">
+                        <Description>The version or revision level of the software component, the software/firmware of a hardware component, or the software/firmware of the Device</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="hardwareRevision" AttributeDataType="xs:string">
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="productCode" AttributeDataType="xs:string">
+                        <Description>Unique combination of numbers and letters used to identify the product. It may be the order information displayed on type shields or in ERP systems</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="revisionCounter" AttributeDataType="xs:int">
+                        <Description>RevisionCounter is an incremental counter indicating the number of times the configuration data has been modified. An example would be a temperature sensor where the change of the unit would increment the RevisionCounter but a change of the measurement value would not affect the RevisionCounter.</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                    <Attribute Name="productInstanceUri" AttributeDataType="xs:anyURI">
+                        <Description>Globally unique resource identifier of the manufacturer of the component</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+                    </Attribute>
+                </Attribute>
+                <Attribute Name="TagNameplate" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-TagNameplate">
+                    <Description>This Attribtue can store the TagNameplate Infromation of the OPC UA Interface ITagNameplateType defined in OPC 10000-100</Description>
+                    <Attribute Name="assetID" AttributeDataType="">
+                        <Description>AssetId is a user writable alphanumeric character sequence uniquely identifying a component. The ID is provided by the integrator or user of the device. It contains typically an identifier in a branch, use case or user specific naming scheme. This could be for example a reference to an electric scheme.  IRDI Mapping 0112/2///61987#ABA038 - identification code of device</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA " />
+                    </Attribute>
+                    <Attribute Name="ComponentName" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/LocalizedAttribute">
+                        <Description>ComponentName is a user writable name provided by the integrator or user of the component.  IRDI Mapping 0112/2///61987#ABA251 - designation of device</Description>
+                    </Attribute>
+                </Attribute>
+                <RoleClass Name="Basic-BaseEngine" RefBaseClassPath="">
+                    <RoleClass Name="Basic-FBExecutionEngine" RefBaseClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-DCN/Basic-BaseEngine" />
+                    <RoleClass Name="Basic-IOServiceEngine" RefBaseClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-DCN/Basic-BaseEngine">
+                        <RoleClass Name="Basic-SignalService" /></RoleClass>
+                </RoleClass>
+            </RoleClass>
+            <RoleClass Name="Basic-ControlApplication" ID="badc8daa-ce9c-4bcd-8a39-f439c2b19ae1">
+                <ExternalInterface Name="LogicSource" ID="06317ffc-6455-4ee4-90ca-ae7ba50501f5" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-OpenPackagingConventionRelationshipInterface/Basic-CodeFileRelationInterface">
+                    <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId">
+                        <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file. This is used to create Links to other parts of the package.</Description>
+                    </Attribute>
+                </ExternalInterface>
+                <RoleClass Name="Basic-FunctionBlockApplication" ID="71802615-82e7-4af6-8540-6721828a093f" RefBaseClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication">
+                    <RoleClass Name="Basic-FunctionBlockGroup" ID="8253a691-d6ef-4705-8523-960b82a9d2e6" RefBaseClassPath="O-PAS-UA-RoleClassLib/UA-NodeRelative">
+                        <ExternalInterface Name="DownloadFile" ID="be834491-6d33-4d79-a2e2-252333e80ce1" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-OpenPackagingConventionRelationshipInterface/Basic-DownloadFileRelationshipInterface">
+                            <Description>Reference to the download file for this function Block Group. If needed, additional copies of this interface can be added to reference more than one download file needed for this function block group</Description>
+                            <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId">
+                                <Description>This Attribute is used to reference a relationship Id for one of relationships in the .rels file of this AML file. This is used to create Links to other parts of the package.Relationships may point out of the package, e.g. to the OPC Foundation website where standard nodeset xml files are hosted.</Description>
+                            </Attribute>
+                        </ExternalInterface>
+                        <RoleClass Name="Basic-FunctionBlock" ID="d8381fbd-ec7c-4bc6-b921-ac058e67cf6f" RefBaseClassPath="O-PAS-UA-RoleClassLib/UA-TypeDefinition">
+                            <Description>Abstract Function Block Type</Description>
+                            <ExternalInterface Name="LogicSource" ID="ca72fe26-6eb8-4777-b813-d0d532a70099" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-OpenPackagingConventionRelationshipInterface/Basic-CodeFileRelationInterface">
+                                <Description>This interface is uses to link a FB SUC to the file in which the logic for the FB is defined.</Description>
+                                <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId">
+                                    <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file. This is used to create Links to other parts of the package.</Description>
+                                    <RefSemantic CorrespondingAttributePath="SUC Attribute - this attribute is set for a SUC an must not be mofified on individual instances" />
+                                </Attribute>
+                            </ExternalInterface>
+                            <ExternalInterface Name="FBConnection" ID="a3792959-5497-4ce1-87a3-a35f463e8e7d" RefBaseClassPath="O-PAS-UA-NodeInterfaceClassLib/UA-NodeConnection/UA-FBConnection">
+                                <Attribute Name="Direction" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                                    <DefaultValue>Out</DefaultValue>
+                                    <Constraint Name="AllowedValues">
+                                        <NominalScaledType>
+                                            <RequiredValue>In</RequiredValue>
+                                            <RequiredValue>Out</RequiredValue>
+                                            <RequiredValue>InOut</RequiredValue>
+                                        </NominalScaledType>
+                                    </Constraint>
+                                </Attribute>
+                            </ExternalInterface>
+                        </RoleClass>
+                    </RoleClass>
+                </RoleClass>
+            </RoleClass>
+        </RoleClass>
+    </RoleClassLib>
+    <SystemUnitClassLib Name="O-PAS-Basic-SystemUnitClassLib">
+        <Version>0</Version>
+        <SystemUnitClass Name="OCFB_INClass" ID="1c76ac1c-cf3e-43d6-81ce-d4b951ce30a8">
+            <ExternalInterface Name="UAObjectTypeLinkInterface" ID="6d6df38b-5d39-4fff-9d68-28cf6f055dab">
+                <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId" Value="rId1">
+                    <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file.</Description>
+                    <RefSemantic CorrespondingAttributePath="SUC Attribute - This attribtue is configured for the SystemUnitClass and not individual instances. It must not be changed on individual instances." />
+                </Attribute>
+                <Attribute Name="NodeId" AttributeDataType="xs:string" RefAttributeType="O-PAS-UA-NodeAttributeTypeLib/UA-NodeIdType">
+                    <Attribute Name="NamespaceURI" AttributeDataType="xs:anyURI" Value="opengroup.org/opas/6.2">
+                        <Description>Namespace qualifier for the NodeId.</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Optional. If omitted, the Local Server URI (namespace index 1) is assumed. " />
+                    </Attribute>
+                    <Attribute Name="NumericNodeId" AttributeDataType="xs:int" Value="16">
+                        <Description>An integer NodeId</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Only 1 of the 4 NodeId types" />
+                    </Attribute>
+                </Attribute>
+            </ExternalInterface>
+            <ExternalInterface Name="Signal" ID="daca0027-97e1-4d3b-82a4-7549615d6493" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface" />
+            <ExternalInterface Name="LogicSource" ID="9b537d65-5ad8-4c48-8221-4a039b614be1" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-OpenPackagingConventionRelationshipInterface/Basic-CodeFileRelationInterface">
+                <Description>This interface is uses to link a FB SUC to the file in which the logic for the FB is defined.</Description>
+                <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId">
+                    <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file. This is used to create Links to other parts of the package.</Description>
+                    <RefSemantic CorrespondingAttributePath="SUC Attribute - this attribute is set for a SUC an must not be mofified on individual instances" />
+                </Attribute>
+            </ExternalInterface>
+            <SupportedRoleClass RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication/Basic-FunctionBlockApplication/Basic-FunctionBlockGroup/Basic-FunctionBlock" />
+        </SystemUnitClass>
+        <SystemUnitClass Name="OCFB_OUTClass" ID="c7aaa499-31e8-4672-9144-7618e2b04c09">
+            <ExternalInterface Name="UAObjectTypeLinkInterface" ID="f2463348-36de-4a20-a4db-df8a11e33256">
+                <Attribute Name="RelId" AttributeDataType="xs:string" RefAttributeType="O-PAS-Basic-AttributeTypeLib/Basic-OpenPackagingConventionRelationshipId" Value="rId1">
+                    <Description>This Attribute is used to reference a relationship Id for one of relationships in the .xml.rels file of this AML file.</Description>
+                    <RefSemantic CorrespondingAttributePath="SUC Attribute - This attribtue is configured for the SystemUnitClass and not individual instances. It must not be changed on individual instances." />
+                </Attribute>
+                <Attribute Name="NodeId" AttributeDataType="xs:string" RefAttributeType="O-PAS-UA-NodeAttributeTypeLib/UA-NodeIdType" Value="opengroup.org/opas/6.2">
+                    <Attribute Name="NamespaceURI" AttributeDataType="xs:anyURI">
+                        <Description>Namespace qualifier for the NodeId.</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Optional. If omitted, the Local Server URI (namespace index 1) is assumed. " />
+                    </Attribute>
+                    <Attribute Name="NumericNodeId" AttributeDataType="xs:int">
+                        <Description>An integer NodeId</Description>
+                        <RefSemantic CorrespondingAttributePath="OPC UA Only 1 of the 4 NodeId types" />
+                    </Attribute>
+                </Attribute>
+            </ExternalInterface>
+            <ExternalInterface Name="Signal" ID="7bfd2414-fcc7-4b36-a6a1-423f85f7993d" RefBaseClassPath="O-PAS-Basic-InterfaceTypeLib/Basic-SignalInterface">
+                <Attribute Name="Direction" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/Direction">
+                    <DefaultValue>InOut</DefaultValue>
+                    <Constraint Name="AllowedValues">
+                        <NominalScaledType>
+                            <RequiredValue>In</RequiredValue>
+                            <RequiredValue>Out</RequiredValue>
+                            <RequiredValue>InOut</RequiredValue>
+                        </NominalScaledType>
+                    </Constraint>
+                </Attribute>
+            </ExternalInterface>
+            <SupportedRoleClass RefRoleClassPath="O-PAS-Basic-RoleClassLib/Basic-Project/Basic-ControlApplication/Basic-FunctionBlockApplication/Basic-FunctionBlockGroup/Basic-FunctionBlock" />
+        </SystemUnitClass>
+    </SystemUnitClassLib>
+    <AttributeTypeLib Name="O-PAS-Basic-AttributeTypeLib" ID="41e4244e-2c2e-4b6d-8d3f-e83dba8ac36f">
+        <Version>0</Version>
+        <AttributeType Name="Basic-OpenPackagingConventionRelationshipId" AttributeDataType="xs:ID" ID="dfcb4ca3-1b47-42fa-841d-d27add85847d">
+            <Description>This Attribute is used to reference a relationship Id for one of relationships in the .rels file of this AML file.</Description>
+        </AttributeType>
+        <AttributeType Name="Basic-VendorNameplate" AttributeDataType="">
+            <Description>This Attribtue can store the Vendor Nameplate Infromation of the OPC UA Interface IVendorNameplateType defined in OPC 10000-100</Description>
+            <Attribute Name="serialNumber" AttributeDataType="xs:string">
+                <Description>Unique production number from the Manufacturer. This is often stamped on the outside of a physical component and may be used for traceability and warranty purposes</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="manufacturer" AttributeDataType="xs:string">
+                <Description>Name of the company that manuafactured the component</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="manufacturerUri" AttributeDataType="xs:anyURI">
+                <Description>ManufacturerUri provides a unique identifier for the manufacturer</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="model" AttributeDataType="xs:string">
+                <Description>product designation under which the device is marketed</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="softwareRevision" AttributeDataType="xs:string">
+                <Description>The version or revision level of the software component, the software/firmware of a hardware component, or the software/firmware of the Device</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="hardwareRevision" AttributeDataType="xs:string">
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="productCode" AttributeDataType="xs:string">
+                <Description>Unique combination of numbers and letters used to identify the product. It may be the order information displayed on type shields or in ERP systems</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="revisionCounter" AttributeDataType="xs:int">
+                <Description>RevisionCounter is an incremental counter indicating the number of times the configuration data has been modified. An example would be a temperature sensor where the change of the unit would increment the RevisionCounter but a change of the measurement value would not affect the RevisionCounter.</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+            <Attribute Name="productInstanceUri" AttributeDataType="xs:anyURI">
+                <Description>Globally unique resource identifier of the manufacturer of the component</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA Mandatory" />
+            </Attribute>
+        </AttributeType>
+        <AttributeType Name="Basic-TagNameplate" AttributeDataType="xs:string">
+            <Description>This Attribtue can store the TagNameplate Infromation of the OPC UA Interface ITagNameplateType defined in OPC 10000-100</Description>
+            <Attribute Name="assetID" AttributeDataType="">
+                <Description>AssetId is a user writable alphanumeric character sequence uniquely identifying a component. The ID is provided by the integrator or user of the device. It contains typically an identifier in a branch, use case or user specific naming scheme. This could be for example a reference to an electric scheme.  IRDI Mapping 0112/2///61987#ABA038 - identification code of device</Description>
+                <RefSemantic CorrespondingAttributePath="OPC UA " />
+            </Attribute>
+            <Attribute Name="ComponentName" AttributeDataType="xs:string" RefAttributeType="AutomationMLBaseAttributeTypeLib/LocalizedAttribute">
+                <Description>ComponentName is a user writable name provided by the integrator or user of the component.  IRDI Mapping 0112/2///61987#ABA251 - designation of device</Description>
+            </Attribute>
+        </AttributeType>
+    </AttributeTypeLib>
+</CAEXFile>
