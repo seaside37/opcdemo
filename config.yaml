@@ -1,0 +1,52 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-dual-container-pod
+  namespace: my-namespace
+  labels:
+    app: my-dual-container-pod
+spec:
+  containers:
+  - name: modbus-slave
+    image: seaside525/my_modbus_slave:latest
+    ports:
+    - containerPort: 5020
+  - name: opc-server
+    image: seaside525/my_opc_server:latest
+    ports:
+    - containerPort: 4840
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: opc-server-service
+  namespace: my-namespace
+  labels:
+    app: my-dual-container-pod
+spec:
+  selector:
+    app: my-dual-container-pod
+  type: NodePort
+  ports:
+    - name: opcua
+      protocol: TCP
+      port: 4840
+      targetPort: 4840
+      nodePort: 4840
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: modbus-slave-service
+  namespace: my-namespace
+  labels:
+    app: my-dual-container-pod
+spec:
+  selector:
+    app: my-dual-container-pod
+  type: ClusterIP
+  ports:
+    - name: modbus
+      protocol: TCP
+      port: 5020
+      targetPort: 5020
