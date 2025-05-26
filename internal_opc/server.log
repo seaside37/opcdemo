@@ -1,0 +1,649 @@
+[2025-05-26 02:07:26,036] [INFO] add_node: while adding node NumericNodeId(i=3062), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,036] [INFO] add_node: while adding node NumericNodeId(i=3063), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,037] [INFO] add_node: while adding node NumericNodeId(i=24), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,043] [INFO] add_node: while adding node NumericNodeId(i=31), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,047] [INFO] add_node: while adding node NumericNodeId(i=3068), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,047] [INFO] add_node: while adding node NumericNodeId(i=12170), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,053] [INFO] add_node: while adding node NumericNodeId(i=3067), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,054] [INFO] add_node: while adding node NumericNodeId(i=3069), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,054] [INFO] add_node: while adding node NumericNodeId(i=3070), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,054] [INFO] add_node: while adding node NumericNodeId(i=11433), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,055] [INFO] add_node: while adding node NumericNodeId(i=11498), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,055] [INFO] add_node: while adding node NumericNodeId(i=15002), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,056] [INFO] add_node: while adding node NumericNodeId(i=12908), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,056] [INFO] add_node: while adding node NumericNodeId(i=11512), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,057] [INFO] add_node: while adding node NumericNodeId(i=11513), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,057] [INFO] add_node: while adding node NumericNodeId(i=11432), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,058] [INFO] add_node: while adding node NumericNodeId(i=3071), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,062] [INFO] add_node: while adding node NumericNodeId(i=12745), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,062] [INFO] add_node: while adding node NumericNodeId(i=3072), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,062] [INFO] add_node: while adding node NumericNodeId(i=3073), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,063] [INFO] add_node: while adding node NumericNodeId(i=16306), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,063] [INFO] add_node: while adding node NumericNodeId(i=17605), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,065] [INFO] add_node: while adding node NumericNodeId(i=23501), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,223] [INFO] add_node: while adding node NumericNodeId(i=58), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,223] [INFO] add_node: while adding node NumericNodeId(i=62), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,227] [INFO] add_node: while adding node NumericNodeId(i=78), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,227] [INFO] add_node: while adding node NumericNodeId(i=80), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,229] [INFO] add_node: while adding node NumericNodeId(i=83), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,230] [INFO] add_node: while adding node NumericNodeId(i=11508), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,230] [INFO] add_node: while adding node NumericNodeId(i=11510), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,231] [INFO] add_node: while adding node NumericNodeId(i=84), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,233] [INFO] add_node: while adding node NumericNodeId(i=15957), requested parent node NumericNodeId(i=11715) does not exists
+[2025-05-26 02:07:26,233] [INFO] add_node: while adding node NumericNodeId(i=15958), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,234] [INFO] add_node: while adding node NumericNodeId(i=15959), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,234] [INFO] add_node: while adding node NumericNodeId(i=15960), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,234] [INFO] add_node: while adding node NumericNodeId(i=15961), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,235] [INFO] add_node: while adding node NumericNodeId(i=15962), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,235] [INFO] add_node: while adding node NumericNodeId(i=15963), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,236] [INFO] add_node: while adding node NumericNodeId(i=15964), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,237] [INFO] add_node: while adding node NumericNodeId(i=16134), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,237] [INFO] add_node: while adding node NumericNodeId(i=16135), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,237] [INFO] add_node: while adding node NumericNodeId(i=16136), requested parent node NumericNodeId(i=15957) does not exists
+[2025-05-26 02:07:26,513] [INFO] add_node: while adding node NumericNodeId(i=16314), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,892] [INFO] add_node: while adding node NumericNodeId(i=11214), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,896] [INFO] add_node: while adding node NumericNodeId(i=11202), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,898] [INFO] add_node: while adding node NumericNodeId(i=11215), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,910] [INFO] add_node: while adding node NumericNodeId(i=2341), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,910] [INFO] add_node: while adding node NumericNodeId(i=2342), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,911] [INFO] add_node: while adding node NumericNodeId(i=2343), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,912] [INFO] add_node: while adding node NumericNodeId(i=11285), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,912] [INFO] add_node: while adding node NumericNodeId(i=2344), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,913] [INFO] add_node: while adding node NumericNodeId(i=11304), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,913] [INFO] add_node: while adding node NumericNodeId(i=2346), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,914] [INFO] add_node: while adding node NumericNodeId(i=2347), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,914] [INFO] add_node: while adding node NumericNodeId(i=2348), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,914] [INFO] add_node: while adding node NumericNodeId(i=2349), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,915] [INFO] add_node: while adding node NumericNodeId(i=2350), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,915] [INFO] add_node: while adding node NumericNodeId(i=11286), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,919] [INFO] add_node: while adding node NumericNodeId(i=11287), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,920] [INFO] add_node: while adding node NumericNodeId(i=11305), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,920] [INFO] add_node: while adding node NumericNodeId(i=11306), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,920] [INFO] add_node: while adding node NumericNodeId(i=11288), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,922] [INFO] add_node: while adding node NumericNodeId(i=2351), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,922] [INFO] add_node: while adding node NumericNodeId(i=2352), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,923] [INFO] add_node: while adding node NumericNodeId(i=11307), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,923] [INFO] add_node: while adding node NumericNodeId(i=11308), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,924] [INFO] add_node: while adding node NumericNodeId(i=2355), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,924] [INFO] add_node: while adding node NumericNodeId(i=2357), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,925] [INFO] add_node: while adding node NumericNodeId(i=2358), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,925] [INFO] add_node: while adding node NumericNodeId(i=2359), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,925] [INFO] add_node: while adding node NumericNodeId(i=11505), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,926] [INFO] add_node: while adding node NumericNodeId(i=11506), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,926] [INFO] add_node: while adding node NumericNodeId(i=11507), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,927] [INFO] add_node: while adding node NumericNodeId(i=2360), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,927] [INFO] add_node: while adding node NumericNodeId(i=2361), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,928] [INFO] add_node: while adding node NumericNodeId(i=2362), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,928] [INFO] add_node: while adding node NumericNodeId(i=2363), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,929] [INFO] add_node: while adding node NumericNodeId(i=2364), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,929] [INFO] add_node: while adding node NumericNodeId(i=11292), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,929] [INFO] add_node: while adding node NumericNodeId(i=11426), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,931] [INFO] add_node: while adding node NumericNodeId(i=11427), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,931] [INFO] add_node: while adding node NumericNodeId(i=11428), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,932] [INFO] add_node: while adding node NumericNodeId(i=11429), requested parent node is null TwoByteNodeId(i=0) True
+[2025-05-26 02:07:26,994] [INFO] Created internal session Internal
+[2025-05-26 02:07:27,015] [INFO] [OPC UA] Server is running at opc.tcp://0.0.0.0:4840/
+[2025-05-26 02:07:27,015] [INFO] [OPC UA] Method NodeId: ns=2;s=UploadAML
+[2025-05-26 02:07:27,016] [WARNING] Endpoints other than open requested but private key and certificate are not set.
+[2025-05-26 02:07:27,016] [INFO] starting internal server
+[2025-05-26 02:07:27,019] [WARNING] Listening on 0.0.0.0:4840
+[2025-05-26 02:07:28,047] [INFO] [Modbus] Starting Modbus TCP server on port 5020...
+[2025-05-26 02:07:28,047] [INFO] opening connection
+[2025-05-26 02:07:28,058] [INFO] New connection from ('127.0.0.1', 7394)
+[2025-05-26 02:07:28,058] [INFO] Thread started
+[2025-05-26 02:07:28,059] [INFO] received header: Header(type:b'ACK', chunk_type:b'F', body_size:20, channel:0)
+[2025-05-26 02:07:28,059] [INFO] open_secure_channel
+[2025-05-26 02:07:28,060] [INFO] received header: Header(type:b'OPN', chunk_type:b'F', body_size:123, channel:6)
+[2025-05-26 02:07:28,062] [INFO] create_session
+[2025-05-26 02:07:28,063] [INFO] Create session request
+[2025-05-26 02:07:28,064] [INFO] Created internal session ('127.0.0.1', 7394)
+[2025-05-26 02:07:28,065] [INFO] Create session request
+[2025-05-26 02:07:28,065] [INFO] get endpoint
+[2025-05-26 02:07:28,066] [INFO] sending create session response
+[2025-05-26 02:07:28,067] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:522, channel:6)
+[2025-05-26 02:07:28,068] [INFO] activate_session
+[2025-05-26 02:07:28,068] [INFO] Activate session request
+[2025-05-26 02:07:28,068] [INFO] activate session
+[2025-05-26 02:07:28,069] [INFO] Activated internal session ('127.0.0.1', 7394) for user User.Anonymous
+[2025-05-26 02:07:28,069] [INFO] sending read response
+[2025-05-26 02:07:28,071] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:84, channel:6)
+[2025-05-26 02:07:28,071] [INFO] [Modbus Slave] Connected to OPC UA server
+[2025-05-26 02:07:28,071] [INFO] read
+[2025-05-26 02:07:28,072] [INFO] Read request
+[2025-05-26 02:07:28,072] [INFO] sending read response
+[2025-05-26 02:07:28,072] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:28,073] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:28,073] [INFO] read
+[2025-05-26 02:07:28,074] [INFO] Read request
+[2025-05-26 02:07:28,074] [INFO] sending read response
+[2025-05-26 02:07:28,075] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:28,075] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:28,075] [INFO] read
+[2025-05-26 02:07:28,076] [INFO] Read request
+[2025-05-26 02:07:28,076] [INFO] sending read response
+[2025-05-26 02:07:28,078] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:28,078] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:28,078] [INFO] Server listening.
+[2025-05-26 02:07:29,086] [INFO] read
+[2025-05-26 02:07:29,087] [INFO] Read request
+[2025-05-26 02:07:29,088] [INFO] sending read response
+[2025-05-26 02:07:29,088] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:29,089] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:29,089] [INFO] read
+[2025-05-26 02:07:29,090] [INFO] Read request
+[2025-05-26 02:07:29,090] [INFO] sending read response
+[2025-05-26 02:07:29,092] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:29,092] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:29,093] [INFO] read
+[2025-05-26 02:07:29,093] [INFO] Read request
+[2025-05-26 02:07:29,094] [INFO] sending read response
+[2025-05-26 02:07:29,094] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:29,095] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:30,107] [INFO] read
+[2025-05-26 02:07:30,109] [INFO] Read request
+[2025-05-26 02:07:30,109] [INFO] sending read response
+[2025-05-26 02:07:30,110] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:30,111] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:30,111] [INFO] read
+[2025-05-26 02:07:30,112] [INFO] Read request
+[2025-05-26 02:07:30,112] [INFO] sending read response
+[2025-05-26 02:07:30,113] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:30,114] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:30,114] [INFO] read
+[2025-05-26 02:07:30,116] [INFO] Read request
+[2025-05-26 02:07:30,116] [INFO] sending read response
+[2025-05-26 02:07:30,116] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:30,117] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:31,129] [INFO] read
+[2025-05-26 02:07:31,130] [INFO] Read request
+[2025-05-26 02:07:31,130] [INFO] sending read response
+[2025-05-26 02:07:31,131] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:31,131] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:31,133] [INFO] read
+[2025-05-26 02:07:31,133] [INFO] Read request
+[2025-05-26 02:07:31,134] [INFO] sending read response
+[2025-05-26 02:07:31,134] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:31,135] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:31,135] [INFO] read
+[2025-05-26 02:07:31,136] [INFO] Read request
+[2025-05-26 02:07:31,136] [INFO] sending read response
+[2025-05-26 02:07:31,137] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:31,137] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:32,147] [INFO] read
+[2025-05-26 02:07:32,149] [INFO] Read request
+[2025-05-26 02:07:32,149] [INFO] sending read response
+[2025-05-26 02:07:32,150] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:32,150] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:32,150] [INFO] read
+[2025-05-26 02:07:32,151] [INFO] Read request
+[2025-05-26 02:07:32,151] [INFO] sending read response
+[2025-05-26 02:07:32,152] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:32,153] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:32,153] [INFO] read
+[2025-05-26 02:07:32,154] [INFO] Read request
+[2025-05-26 02:07:32,154] [INFO] sending read response
+[2025-05-26 02:07:32,154] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:32,156] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:33,168] [INFO] read
+[2025-05-26 02:07:33,169] [INFO] Read request
+[2025-05-26 02:07:33,169] [INFO] sending read response
+[2025-05-26 02:07:33,170] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:33,170] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:33,170] [INFO] read
+[2025-05-26 02:07:33,171] [INFO] Read request
+[2025-05-26 02:07:33,172] [INFO] sending read response
+[2025-05-26 02:07:33,172] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:33,173] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:33,173] [INFO] read
+[2025-05-26 02:07:33,174] [INFO] Read request
+[2025-05-26 02:07:33,174] [INFO] sending read response
+[2025-05-26 02:07:33,175] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:33,175] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:34,191] [INFO] read
+[2025-05-26 02:07:34,192] [INFO] Read request
+[2025-05-26 02:07:34,192] [INFO] sending read response
+[2025-05-26 02:07:34,194] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:34,194] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:34,194] [INFO] read
+[2025-05-26 02:07:34,195] [INFO] Read request
+[2025-05-26 02:07:34,196] [INFO] sending read response
+[2025-05-26 02:07:34,196] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:34,197] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:34,198] [INFO] read
+[2025-05-26 02:07:34,199] [INFO] Read request
+[2025-05-26 02:07:34,199] [INFO] sending read response
+[2025-05-26 02:07:34,199] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:34,200] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:35,214] [INFO] read
+[2025-05-26 02:07:35,214] [INFO] Read request
+[2025-05-26 02:07:35,216] [INFO] sending read response
+[2025-05-26 02:07:35,217] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:35,217] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:35,218] [INFO] read
+[2025-05-26 02:07:35,219] [INFO] Read request
+[2025-05-26 02:07:35,219] [INFO] sending read response
+[2025-05-26 02:07:35,219] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:35,220] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:35,220] [INFO] read
+[2025-05-26 02:07:35,222] [INFO] Read request
+[2025-05-26 02:07:35,222] [INFO] sending read response
+[2025-05-26 02:07:35,223] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:35,224] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:36,229] [INFO] read
+[2025-05-26 02:07:36,230] [INFO] Read request
+[2025-05-26 02:07:36,230] [INFO] sending read response
+[2025-05-26 02:07:36,231] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:36,231] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:36,231] [INFO] read
+[2025-05-26 02:07:36,232] [INFO] Read request
+[2025-05-26 02:07:36,233] [INFO] sending read response
+[2025-05-26 02:07:36,234] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:36,234] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:36,234] [INFO] read
+[2025-05-26 02:07:36,235] [INFO] Read request
+[2025-05-26 02:07:36,236] [INFO] sending read response
+[2025-05-26 02:07:36,236] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:36,237] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:37,248] [INFO] read
+[2025-05-26 02:07:37,249] [INFO] Read request
+[2025-05-26 02:07:37,250] [INFO] sending read response
+[2025-05-26 02:07:37,251] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:37,252] [WARNING] [Modbus] Failed to read PV (ns=2;i=84): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:37,252] [INFO] read
+[2025-05-26 02:07:37,253] [INFO] Read request
+[2025-05-26 02:07:37,253] [INFO] sending read response
+[2025-05-26 02:07:37,254] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:37,254] [WARNING] [Modbus] Failed to read LOOP1 (ns=2;i=96): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:37,255] [INFO] read
+[2025-05-26 02:07:37,256] [INFO] Read request
+[2025-05-26 02:07:37,256] [INFO] sending read response
+[2025-05-26 02:07:37,256] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:54, channel:6)
+[2025-05-26 02:07:37,257] [WARNING] [Modbus] Failed to read LOOP2 (ns=2;i=108): "The node id refers to a node that does not exist in the server address space."(BadNodeIdUnknown)
+[2025-05-26 02:07:37,847] [INFO] New connection from ('127.0.0.1', 7395)
+[2025-05-26 02:07:37,850] [INFO] Create session request
+[2025-05-26 02:07:37,850] [INFO] Created internal session ('127.0.0.1', 7395)
+[2025-05-26 02:07:37,850] [INFO] Create session request
+[2025-05-26 02:07:37,852] [INFO] get endpoint
+[2025-05-26 02:07:37,852] [INFO] sending create session response
+[2025-05-26 02:07:37,854] [INFO] Activate session request
+[2025-05-26 02:07:37,854] [INFO] activate session
+[2025-05-26 02:07:37,855] [INFO] Activated internal session ('127.0.0.1', 7395) for user User.Anonymous
+[2025-05-26 02:07:37,855] [INFO] sending read response
+[2025-05-26 02:07:37,857] [INFO] Browse request
+[2025-05-26 02:07:37,857] [INFO] sending browse response
+[2025-05-26 02:07:37,859] [INFO] Read request
+[2025-05-26 02:07:37,859] [INFO] sending read response
+[2025-05-26 02:07:37,861] [INFO] Read request
+[2025-05-26 02:07:37,861] [INFO] sending read response
+[2025-05-26 02:07:37,862] [INFO] Read request
+[2025-05-26 02:07:37,862] [INFO] sending read response
+[2025-05-26 02:07:37,863] [INFO] Read request
+[2025-05-26 02:07:37,863] [INFO] sending read response
+[2025-05-26 02:07:37,864] [INFO] Read request
+[2025-05-26 02:07:37,866] [INFO] sending read response
+[2025-05-26 02:07:37,869] [INFO] Read request
+[2025-05-26 02:07:37,869] [INFO] sending read response
+[2025-05-26 02:07:37,870] [INFO] Read request
+[2025-05-26 02:07:37,870] [INFO] sending read response
+[2025-05-26 02:07:37,873] [INFO] Read request
+[2025-05-26 02:07:37,873] [INFO] sending read response
+[2025-05-26 02:07:37,873] [INFO] Read request
+[2025-05-26 02:07:37,874] [INFO] sending read response
+[2025-05-26 02:07:37,874] [INFO] Read request
+[2025-05-26 02:07:37,876] [INFO] sending read response
+[2025-05-26 02:07:37,876] [INFO] Read request
+[2025-05-26 02:07:37,877] [INFO] sending read response
+[2025-05-26 02:07:37,878] [INFO] Read request
+[2025-05-26 02:07:37,878] [INFO] sending read response
+[2025-05-26 02:07:37,880] [INFO] call request
+[2025-05-26 02:07:37,881] [INFO] AML received and saved to dcn_io.aml
+[2025-05-26 02:07:37,932] [INFO] AML parsed and address space updated.
+[2025-05-26 02:07:37,935] [INFO] Close session request
+[2025-05-26 02:07:37,935] [INFO] close session InternalSession(name:('127.0.0.1', 7395), user:User.Anonymous, id:NumericNodeId(i=12), auth_token:NumericNodeId(i=1002)) with subscriptions []
+[2025-05-26 02:07:37,935] [INFO] delete subscriptions: []
+[2025-05-26 02:07:37,936] [INFO] sending close session response
+[2025-05-26 02:07:37,937] [INFO] processor returned False, we close connection from ('127.0.0.1', 7395)
+[2025-05-26 02:07:37,937] [INFO] Lost connection from ('127.0.0.1', 7395), None
+[2025-05-26 02:07:37,938] [INFO] Cleanup client connection: ('127.0.0.1', 7395)
+[2025-05-26 02:07:37,938] [INFO] close session InternalSession(name:('127.0.0.1', 7395), user:User.Anonymous, id:NumericNodeId(i=12), auth_token:NumericNodeId(i=1002)) with subscriptions []
+[2025-05-26 02:07:37,939] [INFO] delete subscriptions: []
+[2025-05-26 02:07:38,265] [INFO] read
+[2025-05-26 02:07:38,266] [INFO] Read request
+[2025-05-26 02:07:38,268] [INFO] sending read response
+[2025-05-26 02:07:38,268] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:38,269] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:38,269] [INFO] read
+[2025-05-26 02:07:38,270] [INFO] Read request
+[2025-05-26 02:07:38,271] [INFO] sending read response
+[2025-05-26 02:07:38,271] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:38,272] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:38,272] [INFO] read
+[2025-05-26 02:07:38,273] [INFO] Read request
+[2025-05-26 02:07:38,273] [INFO] sending read response
+[2025-05-26 02:07:38,274] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:38,274] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:39,281] [INFO] read
+[2025-05-26 02:07:39,282] [INFO] Read request
+[2025-05-26 02:07:39,282] [INFO] sending read response
+[2025-05-26 02:07:39,283] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:39,283] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:39,284] [INFO] read
+[2025-05-26 02:07:39,284] [INFO] Read request
+[2025-05-26 02:07:39,285] [INFO] sending read response
+[2025-05-26 02:07:39,286] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:39,286] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:39,287] [INFO] read
+[2025-05-26 02:07:39,287] [INFO] Read request
+[2025-05-26 02:07:39,288] [INFO] sending read response
+[2025-05-26 02:07:39,288] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:39,289] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:40,301] [INFO] read
+[2025-05-26 02:07:40,302] [INFO] Read request
+[2025-05-26 02:07:40,303] [INFO] sending read response
+[2025-05-26 02:07:40,303] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:40,304] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:40,304] [INFO] read
+[2025-05-26 02:07:40,306] [INFO] Read request
+[2025-05-26 02:07:40,306] [INFO] sending read response
+[2025-05-26 02:07:40,306] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:40,307] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:40,307] [INFO] read
+[2025-05-26 02:07:40,308] [INFO] Read request
+[2025-05-26 02:07:40,308] [INFO] sending read response
+[2025-05-26 02:07:40,309] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:40,309] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:41,320] [INFO] read
+[2025-05-26 02:07:41,322] [INFO] Read request
+[2025-05-26 02:07:41,323] [INFO] sending read response
+[2025-05-26 02:07:41,323] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:41,324] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:41,324] [INFO] read
+[2025-05-26 02:07:41,325] [INFO] Read request
+[2025-05-26 02:07:41,325] [INFO] sending read response
+[2025-05-26 02:07:41,326] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:41,327] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:41,327] [INFO] read
+[2025-05-26 02:07:41,327] [INFO] Read request
+[2025-05-26 02:07:41,328] [INFO] sending read response
+[2025-05-26 02:07:41,328] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:41,329] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:42,341] [INFO] read
+[2025-05-26 02:07:42,341] [INFO] Read request
+[2025-05-26 02:07:42,342] [INFO] sending read response
+[2025-05-26 02:07:42,343] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:42,343] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:42,343] [INFO] read
+[2025-05-26 02:07:42,345] [INFO] Read request
+[2025-05-26 02:07:42,345] [INFO] sending read response
+[2025-05-26 02:07:42,346] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:42,346] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:42,346] [INFO] read
+[2025-05-26 02:07:42,347] [INFO] Read request
+[2025-05-26 02:07:42,347] [INFO] sending read response
+[2025-05-26 02:07:42,348] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:42,349] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:43,360] [INFO] read
+[2025-05-26 02:07:43,361] [INFO] Read request
+[2025-05-26 02:07:43,361] [INFO] sending read response
+[2025-05-26 02:07:43,362] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:43,363] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:43,363] [INFO] read
+[2025-05-26 02:07:43,364] [INFO] Read request
+[2025-05-26 02:07:43,364] [INFO] sending read response
+[2025-05-26 02:07:43,364] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:43,366] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:43,366] [INFO] read
+[2025-05-26 02:07:43,367] [INFO] Read request
+[2025-05-26 02:07:43,367] [INFO] sending read response
+[2025-05-26 02:07:43,368] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:43,369] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:44,369] [INFO] read
+[2025-05-26 02:07:44,370] [INFO] Read request
+[2025-05-26 02:07:44,371] [INFO] sending read response
+[2025-05-26 02:07:44,372] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:44,372] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:44,372] [INFO] read
+[2025-05-26 02:07:44,374] [INFO] Read request
+[2025-05-26 02:07:44,374] [INFO] sending read response
+[2025-05-26 02:07:44,375] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:44,375] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:44,376] [INFO] read
+[2025-05-26 02:07:44,377] [INFO] Read request
+[2025-05-26 02:07:44,377] [INFO] sending read response
+[2025-05-26 02:07:44,378] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:44,378] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:45,386] [INFO] read
+[2025-05-26 02:07:45,387] [INFO] Read request
+[2025-05-26 02:07:45,388] [INFO] sending read response
+[2025-05-26 02:07:45,388] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:45,389] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:45,389] [INFO] read
+[2025-05-26 02:07:45,390] [INFO] Read request
+[2025-05-26 02:07:45,390] [INFO] sending read response
+[2025-05-26 02:07:45,391] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:45,391] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:45,391] [INFO] read
+[2025-05-26 02:07:45,392] [INFO] Read request
+[2025-05-26 02:07:45,393] [INFO] sending read response
+[2025-05-26 02:07:45,393] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:45,394] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:46,408] [INFO] read
+[2025-05-26 02:07:46,409] [INFO] Read request
+[2025-05-26 02:07:46,409] [INFO] sending read response
+[2025-05-26 02:07:46,410] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:46,410] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:46,411] [INFO] read
+[2025-05-26 02:07:46,412] [INFO] Read request
+[2025-05-26 02:07:46,412] [INFO] sending read response
+[2025-05-26 02:07:46,413] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:46,413] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:46,413] [INFO] read
+[2025-05-26 02:07:46,414] [INFO] Read request
+[2025-05-26 02:07:46,415] [INFO] sending read response
+[2025-05-26 02:07:46,415] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:46,417] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:47,428] [INFO] read
+[2025-05-26 02:07:47,429] [INFO] Read request
+[2025-05-26 02:07:47,429] [INFO] sending read response
+[2025-05-26 02:07:47,430] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:47,430] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:47,430] [INFO] read
+[2025-05-26 02:07:47,432] [INFO] Read request
+[2025-05-26 02:07:47,432] [INFO] sending read response
+[2025-05-26 02:07:47,432] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:47,432] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:47,433] [INFO] read
+[2025-05-26 02:07:47,433] [INFO] Read request
+[2025-05-26 02:07:47,433] [INFO] sending read response
+[2025-05-26 02:07:47,435] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:47,435] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:48,447] [INFO] read
+[2025-05-26 02:07:48,448] [INFO] Read request
+[2025-05-26 02:07:48,449] [INFO] sending read response
+[2025-05-26 02:07:48,450] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:48,451] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:48,451] [INFO] read
+[2025-05-26 02:07:48,453] [INFO] Read request
+[2025-05-26 02:07:48,453] [INFO] sending read response
+[2025-05-26 02:07:48,454] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:48,454] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:48,455] [INFO] read
+[2025-05-26 02:07:48,456] [INFO] Read request
+[2025-05-26 02:07:48,456] [INFO] sending read response
+[2025-05-26 02:07:48,457] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:48,458] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:49,468] [INFO] read
+[2025-05-26 02:07:49,469] [INFO] Read request
+[2025-05-26 02:07:49,470] [INFO] sending read response
+[2025-05-26 02:07:49,470] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:49,471] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:49,471] [INFO] read
+[2025-05-26 02:07:49,471] [INFO] Read request
+[2025-05-26 02:07:49,471] [INFO] sending read response
+[2025-05-26 02:07:49,472] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:49,472] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:49,474] [INFO] read
+[2025-05-26 02:07:49,475] [INFO] Read request
+[2025-05-26 02:07:49,475] [INFO] sending read response
+[2025-05-26 02:07:49,475] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:49,476] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:50,487] [INFO] read
+[2025-05-26 02:07:50,488] [INFO] Read request
+[2025-05-26 02:07:50,488] [INFO] sending read response
+[2025-05-26 02:07:50,489] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:50,489] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:50,489] [INFO] read
+[2025-05-26 02:07:50,491] [INFO] Read request
+[2025-05-26 02:07:50,492] [INFO] sending read response
+[2025-05-26 02:07:50,492] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:50,493] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:50,493] [INFO] read
+[2025-05-26 02:07:50,495] [INFO] Read request
+[2025-05-26 02:07:50,495] [INFO] sending read response
+[2025-05-26 02:07:50,495] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:50,496] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:51,521] [INFO] read
+[2025-05-26 02:07:51,522] [INFO] Read request
+[2025-05-26 02:07:51,522] [INFO] sending read response
+[2025-05-26 02:07:51,524] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:51,524] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:51,525] [INFO] read
+[2025-05-26 02:07:51,525] [INFO] Read request
+[2025-05-26 02:07:51,526] [INFO] sending read response
+[2025-05-26 02:07:51,526] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:51,527] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:51,527] [INFO] read
+[2025-05-26 02:07:51,528] [INFO] Read request
+[2025-05-26 02:07:51,528] [INFO] sending read response
+[2025-05-26 02:07:51,529] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:51,529] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:52,543] [INFO] read
+[2025-05-26 02:07:52,544] [INFO] Read request
+[2025-05-26 02:07:52,545] [INFO] sending read response
+[2025-05-26 02:07:52,545] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:52,546] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:52,546] [INFO] read
+[2025-05-26 02:07:52,547] [INFO] Read request
+[2025-05-26 02:07:52,547] [INFO] sending read response
+[2025-05-26 02:07:52,548] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:52,549] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:52,549] [INFO] read
+[2025-05-26 02:07:52,550] [INFO] Read request
+[2025-05-26 02:07:52,550] [INFO] sending read response
+[2025-05-26 02:07:52,551] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:52,551] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:53,566] [INFO] read
+[2025-05-26 02:07:53,567] [INFO] Read request
+[2025-05-26 02:07:53,567] [INFO] sending read response
+[2025-05-26 02:07:53,568] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:53,569] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:53,569] [INFO] read
+[2025-05-26 02:07:53,569] [INFO] Read request
+[2025-05-26 02:07:53,571] [INFO] sending read response
+[2025-05-26 02:07:53,571] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:53,572] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:53,572] [INFO] read
+[2025-05-26 02:07:53,573] [INFO] Read request
+[2025-05-26 02:07:53,573] [INFO] sending read response
+[2025-05-26 02:07:53,574] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:53,575] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:54,586] [INFO] read
+[2025-05-26 02:07:54,587] [INFO] Read request
+[2025-05-26 02:07:54,587] [INFO] sending read response
+[2025-05-26 02:07:54,587] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:54,588] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:54,588] [INFO] read
+[2025-05-26 02:07:54,589] [INFO] Read request
+[2025-05-26 02:07:54,589] [INFO] sending read response
+[2025-05-26 02:07:54,590] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:54,590] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:54,590] [INFO] read
+[2025-05-26 02:07:54,591] [INFO] Read request
+[2025-05-26 02:07:54,591] [INFO] sending read response
+[2025-05-26 02:07:54,592] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:54,592] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:55,605] [INFO] read
+[2025-05-26 02:07:55,606] [INFO] Read request
+[2025-05-26 02:07:55,607] [INFO] sending read response
+[2025-05-26 02:07:55,607] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:55,608] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:55,608] [INFO] read
+[2025-05-26 02:07:55,609] [INFO] Read request
+[2025-05-26 02:07:55,610] [INFO] sending read response
+[2025-05-26 02:07:55,610] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:55,611] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:55,611] [INFO] read
+[2025-05-26 02:07:55,612] [INFO] Read request
+[2025-05-26 02:07:55,612] [INFO] sending read response
+[2025-05-26 02:07:55,613] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:55,614] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:56,629] [INFO] read
+[2025-05-26 02:07:56,630] [INFO] Read request
+[2025-05-26 02:07:56,631] [INFO] sending read response
+[2025-05-26 02:07:56,631] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:56,632] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:56,632] [INFO] read
+[2025-05-26 02:07:56,633] [INFO] Read request
+[2025-05-26 02:07:56,633] [INFO] sending read response
+[2025-05-26 02:07:56,635] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:56,635] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:56,635] [INFO] read
+[2025-05-26 02:07:56,636] [INFO] Read request
+[2025-05-26 02:07:56,637] [INFO] sending read response
+[2025-05-26 02:07:56,637] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:56,638] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:57,652] [INFO] read
+[2025-05-26 02:07:57,653] [INFO] Read request
+[2025-05-26 02:07:57,653] [INFO] sending read response
+[2025-05-26 02:07:57,653] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:57,653] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:57,654] [INFO] read
+[2025-05-26 02:07:57,656] [INFO] Read request
+[2025-05-26 02:07:57,656] [INFO] sending read response
+[2025-05-26 02:07:57,656] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:57,657] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:57,657] [INFO] read
+[2025-05-26 02:07:57,658] [INFO] Read request
+[2025-05-26 02:07:57,658] [INFO] sending read response
+[2025-05-26 02:07:57,659] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:57,659] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:58,673] [INFO] read
+[2025-05-26 02:07:58,674] [INFO] Read request
+[2025-05-26 02:07:58,674] [INFO] sending read response
+[2025-05-26 02:07:58,675] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:58,675] [INFO] [Modbus] PV Value: 20
+[2025-05-26 02:07:58,676] [INFO] read
+[2025-05-26 02:07:58,677] [INFO] Read request
+[2025-05-26 02:07:58,677] [INFO] sending read response
+[2025-05-26 02:07:58,677] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:58,679] [INFO] [Modbus] LOOP1 Value: 20
+[2025-05-26 02:07:58,679] [INFO] read
+[2025-05-26 02:07:58,680] [INFO] Read request
+[2025-05-26 02:07:58,681] [INFO] sending read response
+[2025-05-26 02:07:58,681] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:68, channel:6)
+[2025-05-26 02:07:58,682] [INFO] [Modbus] LOOP2 Value: 20
+[2025-05-26 02:07:58,750] [INFO] Server graceful shutdown.
+[2025-05-26 02:07:58,751] [INFO] close_session
+[2025-05-26 02:07:58,752] [INFO] Close session request
+[2025-05-26 02:07:58,752] [INFO] close session InternalSession(name:('127.0.0.1', 7394), user:User.Anonymous, id:NumericNodeId(i=11), auth_token:NumericNodeId(i=1001)) with subscriptions []
+[2025-05-26 02:07:58,753] [INFO] delete subscriptions: []
+[2025-05-26 02:07:58,753] [INFO] sending close session response
+[2025-05-26 02:07:58,753] [INFO] received header: Header(type:b'MSG', chunk_type:b'F', body_size:40, channel:6)
+[2025-05-26 02:07:58,754] [INFO] close_secure_channel
+[2025-05-26 02:07:58,754] [INFO] processor returned False, we close connection from ('127.0.0.1', 7394)
+[2025-05-26 02:07:58,754] [INFO] Request to close socket received
+[2025-05-26 02:07:58,756] [INFO] Lost connection from ('127.0.0.1', 7394), None
+[2025-05-26 02:07:58,756] [INFO] Socket closed, waiting for receiver thread to terminate...
+[2025-05-26 02:07:58,756] [INFO] Socket has closed connection
+[2025-05-26 02:07:58,757] [INFO] Cleanup client connection: ('127.0.0.1', 7394)
+[2025-05-26 02:07:58,757] [INFO] Cancelling request 98
+[2025-05-26 02:07:58,758] [INFO] close session InternalSession(name:('127.0.0.1', 7394), user:User.Anonymous, id:NumericNodeId(i=11), auth_token:NumericNodeId(i=1001)) with subscriptions []
+[2025-05-26 02:07:58,758] [INFO] Thread ended
+[2025-05-26 02:07:58,759] [INFO] delete subscriptions: []
+[2025-05-26 02:07:58,759] [INFO] Done closing socket: Receiving thread terminated, socket disconnected
+[2025-05-26 02:07:58,761] [INFO] [Modbus] Disconnected from OPC UA
+[2025-05-26 02:07:58,762] [INFO] Shutting down servers...
+[2025-05-26 02:07:58,762] [INFO] Closing asyncio socket server
+[2025-05-26 02:07:58,763] [INFO] stopping internal server
+[2025-05-26 02:07:58,763] [INFO] close session InternalSession(name:Internal, user:User.Admin, id:NumericNodeId(i=10), auth_token:NumericNodeId(i=1000)) with subscriptions []
+[2025-05-26 02:07:58,764] [INFO] delete subscriptions: []
